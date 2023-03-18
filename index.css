@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.purple{
+    background: rgba(36, 5, 62, 1);
+    padding: 15px;
+    height: 350px;
+    border-bottom-left-radius: 10% 7%;
+    border-bottom-right-radius: 10% 7%;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+    padding-top: 10px;
+    font-family:  sans-serif;
+}
+.header > h3{
+    color: white;
+}
+.apply{
+text-decoration: solid underline #44ffa1 4px;
+}
+.date{
+    color: white;
+    font-family: poppins;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 28px;
+    line-height: 36px;
+    margin-top: 25px;
+}
+.learn{
+    width: 40%;
+    background: #44ffa1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+.learn > p{
+    font-family: poppins;
+    padding: 15px;
+    font-size: 15px;
+    color: rgba(36, 5, 62, 1);
+}
+.phone > img{
+    position: relative;
+    top: -55px;
+    margin-left: 26px;
+}
+.phoney{
+    background: #f2f2f247;
+    border-bottom-left-radius: 10% 7%;
+    border-bottom-right-radius: 10% 7%;
+}
+.pee{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+.onee{
+    border: 1px solid rgba(36, 5, 62, 1);
+    border-radius: 100%;
+    margin: 0 auto;
+    padding: 6px;
+}
+.one{
+    border: 1px solid rgba(36, 5, 62, 1);
+    width: 8%;
+    margin: 0 auto;
+    padding: 4px;
+    margin-top: 20px;
+}
+
+.actionable{
+    text-align: center;
+    margin: 0 auto;
+    width: 335px;
+    border: 1px solid #584D62;
+    margin-top: 20px;
+}
+.actionable > h2{
+    font-family: poppins;
+    font-size: 23px;
+    color: rgba(36, 5, 62, 1);
+}
+.actionable > p{
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(88, 77, 98, 1);
+    font-size: 14px;
+}
+
+.picture{
+    margin: 70px;
+}
+.founder{
+    padding-top: 70px;
+}
+.purplei{
+    background: rgba(36, 5, 62, 1);
+    padding: 20px;
+    height: 320px;
+    position: relative;
+    top: -60px;
+    color: white;
+    width: 120%;
+    left: -40px;
+}
+.headeri{
+    text-align: center;
+    padding: 10px;
+    font-family: poppins;
+}
+.louis
+{
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    font-family: poppins;
+}
+.learni{
+    width: 60%;
+    background: #44ffa1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+.learni > p{
+    font-family: poppins;
+    padding: 15px;
+    font-size: 15px;
+    color: rgba(36, 5, 62, 1);
+}
+.work > img{
+    display: flex;
+    margin: 0 auto;
+}
+.sm{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    width: 38%;
+    margin-top: 28px;
+}
